@@ -19,8 +19,5 @@ dependencies[] = field_ui
 dependencies[] = file
 
 ; Contrib modules.
-dependencies[] = ctools
-dependencies[] = features
-dependencies[] = views
 
 ; Features.

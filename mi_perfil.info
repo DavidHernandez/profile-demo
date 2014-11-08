@@ -19,5 +19,6 @@ dependencies[] = field_ui
 dependencies[] = file
 
 ; Contrib modules.
+dependencies[] = features
 
 ; Features.

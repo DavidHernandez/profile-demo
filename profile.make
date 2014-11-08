@@ -6,5 +6,5 @@ includes = drupal-org.make
 ; Custom profile
 projects[profile][type] = "profile"
 projects[profile][download][type] = "git"
-projects[profile][download][url] = ""
+projects[profile][download][url] = "git@github.com:DavidHernandez/profile-demo.git"
 projects[profile][download][branch] = "master"

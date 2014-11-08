@@ -5,3 +5,7 @@
  *  Install and update functions for the profile.
  */
 
+function mi_perfil_update_7000() {
+  $modules = array('features');
+  module_enable($modules);
+}
